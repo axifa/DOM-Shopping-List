@@ -1,7 +1,7 @@
 .coolTitle {
   text-align: center;
   font-family: 'Oswald', Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 100px;
   transform: skewY(-10deg);
   letter-spacing: 4px;
   word-spacing: -8px;
@@ -16,6 +16,9 @@
     -7px -7px 0 firebrick,
     -8px -8px 0 firebrick,
     -30px 20px 40px dimgrey;
+}
+li,  input, button{
+  font-size: 30px;
 }
 
 .done {
